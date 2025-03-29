@@ -1,0 +1,61 @@
+Job Overview
+
+A software engineer is part of the software development team that creates software solutions for AEVEX. This person applies engineering principles and knowledge of programming languages to build these software solutions. This is an entry-level position, ideal for recent college graduates.
+
+Essential Functions
+• Contribute during the entire software development process including requirements, design, implementation, test, debugging and deployment.
+• Develop Embedded Linux, Windows PC and microcontroller software applications using C, C++, and occasionally other programming languages.
+• Deploy and maintain software on Embedded Linux and Microsoft Windows PC based platforms.
+• Expand the capabilities of our software products by developing new features and Integrating data from hardware such as GPS/GNSS, LiDAR and Accelerometers.
+• Rapidly build and deploy moderately complex mobile applications leveraging Location Services, Maps, and other common Android/IOS libraries.
+• Manage coded components and design elements of a front-end design system in terms of versioning, technology, and requirements.
+• Be able to work creatively through and around perceived limitations to build fast and simplified user experiences.
+• Collaborate with other software developers, product owner/manager, and stakeholders to deliver creative and tailored custom solutions.
+• Ensure that design supports the client's goals and requirements and be willing to make adjustments to exceed expectations.
+• Assist in creating a vision for, and communicating creative solutions for a wide variety of user experience challenges (graphic creation/development, wireframes etc.)
+• Facilitate discussions on design and user experience and communicate clearly and effectively.
+• Stay up to date with the latest design trends and best practices.
+• Perform other related duties as assigned.
+
+Standard Essential Functions
+• Regular and reliable attendance on a full time basis [or in accordance with posted schedule].
+• Responsible for exhibiting professional behavior with both internal and external business associates that reflects positively on the company and is consistent with the company's policies and practices.
+• Embodies AEVEX's cultural values and aligns daily actions with department goals and company culture.
+
+Qualifications and Competencies
+• Ability to grow your professional skills and learn from challenges
+• Possess good organization and problem-solving skills
+• Hands on Embedded programming experience in college projects, internships, or industry.
+• Knowledge of Linux, Linux programming or Embedded Linux concepts.
+• Knowledge of software development using Microsoft Visual Studio or Visual Studio Code.
+• Familiarity with Autopilot systems, ground control stations, or flight simulation software is highly desirable.
+
+Education / Certifications
+• Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Aerospace Engineering or related field required.
+
+Experience
+• 0-3 years software development experience (additional experience from Internships or Industry welcomed)
+• Experience in the development of embedded systems utilizing platforms such as Raspberry Pi, Arduino, and other microcontrollers.
+
+Physical Requirements
+
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties the employee is:
+• Frequently required to sit, and to reach to use computers and other office equipment
+• For the purpose of this summary, occasionally is used to represent up to 1/3 of the time given to the work day, frequently represents 1/3 to 2/3 of the time and constantly represents 2/3 or more of the time.
+
+Security Clearance
+• Ability to obtain/maintain a Top Secret/SCI DoD clearance, U.S. Citizenship required.
+
+Disclaimer:
+
+AEVEX Aerospace is an Equal Opportunity employer. We are committed to providing equal employment opportunities to all employees and applicants without regard to race, religious creed, color, sex (including pregnancy, breast feeding and related medical conditions), gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship status, military and veteran status, marital status, age, protected medical condition, genetic information, physical disability, mental disability, or any other protected status in accordance with all applicable federal, state and local laws.
+
+About AEVEX Aerospace
+
+AEVEX Aerospace, headquartered in Solana Beach, California, supports the U.S. national security mission and partner nation needs around the world by providing full-spectrum aviation, remote sensing, and analysis solutions. The company's capabilities include custom design and engineering; rapid prototyping; sensor integration and sustainment; aircraft modification and certification; flight test instrumentation and support; mission operations service; advanced intelligence data processing, exploitation, and dissemination solutions; and tailored hardware and software mission-system tools. AEVEX uses agile and customized approaches to rapidly define, develop, and deliver specialized solutions for airborne special mission needs for the U.S. Government, partner nations, and commercial businesses. AEVEX has major offices in California, Florida, North Carolina, Ohio, and Virginia.
+
+AEVEX provides a full suite of comprehensive benefits, including a 401(k)-retirement plan, comprehensive Medical, Dental, Vision, Disability and Life insurance group coverage with a portion of the premiums paid by the company, professional development funds, and an Employee Assistance Plan (EAP) with counseling, legal help, child and elder care support, among other benefits.
+
+Equal Employment Opportunity:
+
+AEVEX Aerospace is an Equal Opportunity employer. We are committed to providing equal employment opportunities to all employees and applicants without regard to race, religious creed, color, sex (including pregnancy, breast feeding and related medical conditions), gender, gender identity, gender expression, sexual orientation, national origin, ancestry, citizenship status, military and veteran status, marital status, age, protected medical condition, genetic information, physical disability, mental disability, or any other protected status in accordance with all applicable federal, state and local laws.

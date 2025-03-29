@@ -1,0 +1,51 @@
+Jucelio Vitor Quentino
+
+Objective:Entry-level Software Engineer with a strong foundation in software development, embedded systems, and data processing. Seeking to apply my programming skills and problem-solving abilities to contribute to AEVEX Aerospace’s innovative solutions.
+
+Education:Bachelor’s Degree in Computer Science, Computer Engineering, or related field
+
+Technical Skills:
+
+Programming Languages: C, C++, Python
+
+Embedded Systems: Linux, Embedded Linux, Microcontrollers (Arduino, Raspberry Pi)
+
+Development Tools: Microsoft Visual Studio, Visual Studio Code
+
+Hardware Integration: GPS/GNSS, LiDAR, Accelerometers
+
+Mobile Development: Android/iOS (Location Services, Maps)
+
+Version Control: Git
+
+Experience:Python Automation Developer | Serasa Experian | 3+ Years
+
+Developed automation solutions for financial operations, optimizing data processing workflows.
+
+Built and deployed software solutions using Python for data analysis and integration.
+
+Scientific Computing & Data Processing | Previous Role
+
+Worked on data analysis and processing in high-performance computing environments.
+
+Applied machine learning techniques to solid-state physics research.
+
+Projects & Internships:
+
+Developed embedded software for microcontroller-based systems.
+
+Designed and implemented software solutions integrating sensors and hardware components.
+
+Key Competencies:
+
+Strong problem-solving and analytical skills
+
+Ability to work across the full software development lifecycle
+
+Hands-on experience with embedded systems and real-time applications
+
+Fast learner, adaptable, and committed to continuous improvement
+
+Languages:
+
+English (Fluent)
